@@ -5,7 +5,7 @@ I’m [**Wesley**](https://wesleylwu.github.io/), a Computer Science student fro
 
 Fun Facts:
 - I like volleyball, bouldering, and gyming
-- I like anime and manga
+- I like anime, donghua, manga, and manhwa
 - I like building new projects
 
 I try to find a balance between touching grass, bedrotting, and learning new things! <img src="https://github.com/user-attachments/assets/fb529b9a-5f86-4e1f-ada6-059a7117b565" width="20"/>
