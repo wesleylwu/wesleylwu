@@ -3,9 +3,4 @@
 
 I’m [**Wesley**](https://wesleylwu.github.io/), a Computer Science student from West Sacramento, California. 
 
-Fun Facts:
-- I like volleyball, bouldering, and gyming
-- I like anime, donghua, manga, and manhwa
-- I like building new projects
-
 I try to find a balance between touching grass, bedrotting, and learning new things!
